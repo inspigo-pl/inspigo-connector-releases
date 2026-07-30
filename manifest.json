@@ -1,6 +1,9 @@
 {
-  "version": "0.0.0",
-  "url": "",
-  "sha256": "",
-  "notes": "Brak wydania. Plik zostanie nadpisany przez pierwszy build."
+  "commit": "b8dd544",
+  "version": "1.0.87",
+  "releasedAt": "2026-07-30T12:20:38.3258655Z",
+  "sha256": "284e450aba9216250e12617181d31f6b3e68b60448849c696c3f154f66ba6370",
+  "sizeBytes": 20525056,
+  "url": "https://github.com/inspigo-pl/inspigo-connector-releases/releases/download/v1.0.87/InspigoConnector-1.0.87.msi",
+  "notes": "Wydanie z zapisu b8dd544."
 }
