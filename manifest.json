@@ -1,9 +1,9 @@
 {
-  "commit": "261b855",
-  "version": "1.0.96",
-  "releasedAt": "2026-07-30T13:34:13.2984994Z",
-  "sha256": "f560bfd5f6de901b89a1ab148b8ac4d8eb7756034b229d8244d0d50cb3836050",
-  "sizeBytes": 20992000,
-  "url": "https://github.com/inspigo-pl/inspigo-connector-releases/releases/download/v1.0.96/InspigoConnector-1.0.96.msi",
-  "notes": "Wydanie z zapisu 261b855."
+  "commit": "aebd390",
+  "version": "1.0.98",
+  "releasedAt": "2026-07-30T13:55:58.1012775Z",
+  "sha256": "4e5ebf8d08ce921a48f615184b89da77e124f2476ff6d98a625de46105ef16f1",
+  "sizeBytes": 20951040,
+  "url": "https://github.com/inspigo-pl/inspigo-connector-releases/releases/download/v1.0.98/InspigoConnector-1.0.98.msi",
+  "notes": "Wydanie z zapisu aebd390."
 }
